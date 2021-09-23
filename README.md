@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tain's github stats](https://github-readme-stats.vercel.app/api?username=tainadacruz&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Taina's github stats](https://github-readme-stats.vercel.app/api?username=tainadacruz&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ##
 
