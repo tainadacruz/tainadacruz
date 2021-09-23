@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/tain%C3%A1-da-cruz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/tainadacruz)
+![Snake animation](https://github.com/tainadacruz/tainadacruz/blob/output/github-contribution-grid-snake.svg)
