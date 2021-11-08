@@ -1,6 +1,6 @@
 ### Hello! 
  
- ###### What I Know . . .
+<!-- ###### What I Know . . .
  
  <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  </div>
+-->
 
 <!--
 **tainadacruz/tainadacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
